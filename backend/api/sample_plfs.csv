@@ -1,0 +1,20 @@
+state,gender,year,employment_rate
+Tamil Nadu,Male,2022,54.1
+Tamil Nadu,Female,2022,22.7
+Tamil Nadu,Male,2023,55.3
+Tamil Nadu,Female,2023,24.2
+Kerala,Male,2022,50.9
+Kerala,Female,2022,20.1
+Kerala,Male,2023,51.5
+Kerala,Female,2023,22.4
+Karnataka,Male,2022,53.0
+Karnataka,Female,2022,21.3
+Karnataka,Male,2023,54.2
+Karnataka,Female,2023,23.1
+Goa,Male,2023,58.1
+Goa,Female,2023,26.9
+Goa,Male,2022,57.4
+Goa,Female,2022,25.8
+Sikkim,Male,2023,56.2
+Sikkim,Female,2023,24.5
+Sikkim,Female,2022,23.8
